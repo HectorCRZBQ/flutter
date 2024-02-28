@@ -18,7 +18,7 @@ The best video I could found about how to doit it's this [video](https://www.you
 
 ## Images of the working project
 Image of the home of the page where it shows a random word and you have two buttons:
- - **Favourite** : it keeps all the words that you press the button and you can access to all of the them on the Favouriotes section.
+ - **Like** : it keeps all the words that you press the button and you can access to all of the them on the Favouriotes section.
  - **Next** : it shows a random word on the screen everytime you press the button.
 
 <img src="images/image_1.png" alt="Home" width="500">
